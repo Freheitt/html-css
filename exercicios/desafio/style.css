@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    background-color: brown;
+}
+h2 {
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+}
+.imgperf { 
+   
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+#tev {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    border: 5px solid;
+}
+p {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.imgcontact {
+    width: 18px; 
+    height: auto;
+
+}
